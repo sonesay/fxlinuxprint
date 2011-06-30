@@ -1,0 +1,5 @@
+fxlinuxprint (1.0.1-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Youhei SASAKI <uwabami@gfd-dennou.org>  Fri, 01 Jul 2011 04:42:46 +0900
